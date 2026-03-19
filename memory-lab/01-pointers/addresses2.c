@@ -11,6 +11,6 @@ int main(void)
     // TODO: Declare a pointer p that stores the address of n
     int *p = &n;
 
-    // TODO: Print the address stored in p using %p
+   // TODO: Print the address stored in p using %p
     printf("%p\n", p);
 }
